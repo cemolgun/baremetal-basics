@@ -1,7 +1,8 @@
 *.i
-*.s
 *.o
 *.out
 *.elf
 *.map
 *.bin
+.cache/
+compile_commands.json
